@@ -1,9 +1,16 @@
 /*  your css code here. If applicable */
 .player_2{
 	width:100%;
+	background-color:rgb(255, 255, 255);
 }
 
 div{
 	padding:10px;
 	border-radius:10px
+}
+a{
+	text-decoration-line:none;
+}
+.player_1{
+	background-color:rgb(255, 255, 255);
 }
